@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Harry
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryEP&layout=compact&theme=radical)
 
 <!--
 **HarryEP/HarryEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
