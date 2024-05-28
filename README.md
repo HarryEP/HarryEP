@@ -1,5 +1,7 @@
 ## Hi, I'm Harry
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarryEP&theme=dark)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryEP&layout=compact&theme=radical)
 
 <!--
